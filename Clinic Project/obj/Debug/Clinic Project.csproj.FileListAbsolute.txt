@@ -1,0 +1,100 @@
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\bin\Debug\Clinic Project.exe.config
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\bin\Debug\Clinic Project.exe
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\bin\Debug\Clinic Project.pdb
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\bin\Debug\ClinicBusinessLayer.dll
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\bin\Debug\ClinicDataAccessLayer.dll
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\bin\Debug\ClinicBusinessLayer.pdb
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic Project.csproj.AssemblyReference.cache
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic Project.exe.config
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.AddNewDoctorScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.AddNewPatientScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.AddNewUserScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.frmAppointmentMoreInfo.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.AppointmentsScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrAddNewDoctor.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrAddNewPatient.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrAddNewPerson.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrAddNewUser.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrDoctorCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrPatientCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrPaymentCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrPersonCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrPrescriptionCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrSystemLogCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrUpdateDoctor.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrUpdatePatient.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrUpdatePerson.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrUpdateUser.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrUserCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.DoctorMoreInfoScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.MainScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.LoginScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.ctrMedicalRecordCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.PatientMoreInfoScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.PersonsScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.Properties.Resources.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.SystemLogMoreInfo.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.SystemLogsScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.UpdateDoctorScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.UpdatePasswordScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.UpdatePatientScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.UpdateUserScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic_Project.UserMoreInfoScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic Project.csproj.GenerateResource.cache
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic Project.csproj.CoreCompileInputs.cache
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic P.A80554C5.Up2Date
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic Project.exe
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\obj\Debug\Clinic Project.pdb
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\Clinic Project\bin\Debug\ClinicDataAccessLayer.pdb
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\bin\Debug\Clinic Project.exe.config
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\bin\Debug\Clinic Project.exe
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\bin\Debug\Clinic Project.pdb
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\bin\Debug\ClinicBusinessLayer.dll
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\bin\Debug\ClinicDataAccessLayer.dll
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\bin\Debug\ClinicBusinessLayer.pdb
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\bin\Debug\ClinicDataAccessLayer.pdb
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic Project.csproj.AssemblyReference.cache
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic Project.exe.config
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.AddNewDoctorScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.AddNewPatientScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.AddNewUserScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.frmAppointmentMoreInfo.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.AppointmentsScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrAddNewDoctor.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrAddNewPatient.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrAddNewPerson.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrAddNewUser.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrDoctorCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrPatientCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrPaymentCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrPersonCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrPrescriptionCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrSystemLogCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrUpdateDoctor.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrUpdatePatient.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrUpdatePerson.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrUpdateUser.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrUserCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.DoctorMoreInfoScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.MainScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.LoginScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ctrMedicalRecordCard.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.PatientMoreInfoScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.PersonsScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.Properties.Resources.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.SystemLogMoreInfo.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.SystemLogsScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.UpdateDoctorScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.UpdatePatientScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.UpdateUserScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.UserMoreInfoScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic Project.csproj.GenerateResource.cache
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic Project.csproj.CoreCompileInputs.cache
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic P.A80554C5.Up2Date
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic Project.exe
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic Project.pdb
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ChangePasswordScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.AddNewAppointmentScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ConfirmAppointmentScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.CompleteAppointmentScreen.resources
+E:\Course 17 Projects\Clinic Project\The Project\Clinic Project\obj\Debug\Clinic_Project.ResheduleAppointmentScreen.resources
